@@ -33,3 +33,8 @@
 BaekJoon/.vs/BaekJoon/v16/Browse.VC.db
 BaekJoon/.vs/BaekJoon/v16/Browse.VC.opendb
 BaekJoon/.vs/BaekJoon/v16/ipch/AutoPCH/cc80266e79f12c50/BAEKJOON.ipch
+*.ipch
+/BaekJoon/BaekJoon/Debug
+/BaekJoon/BaekJoon/x64/Debug
+/BaekJoon/Debug
+/BaekJoon/x64/Debug
